@@ -3,6 +3,9 @@
 IMAGENTV
 https://www.youtube.com/watch?v=8u8ZPAMI21w
 
+MILENIOTV
+https://www.youtube.com/watch?v=Wi0pEULGi5I
+
 MEGANOTICIAS
 https://www.youtube.com/watch?v=hd-umPly5Uo
 
@@ -17,6 +20,9 @@ https://www.youtube.com/watch?v=veksloiBc3Q
 
 RT
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
+
+FRANCE24
+https://www.youtube.com/watch?v=veksloiBc3Q
 
 IP NOTICIAS
 https://www.youtube.com/watch?v=FrzGmtojmzw
@@ -45,12 +51,31 @@ https://www.youtube.com/watch?v=q7l5LmGOXVY
 24HORAS CL
 https://www.youtube.com/watch?v=ZothDhWS1V8
 
+TVP
+https://www.youtube.com/watch?v=bgQTONZ8wlA
+
+GLOBOVISION TV
+https://www.youtube.com/watch?v=cwxwOrGHYwU
+
+RTVE
+https://www.youtube.com/watch?v=XBSRLazo64Y
+
+AMERICA TV
+https://www.youtube.com/watch?v=2Vyx4ee2Tss
+
+CRONICA TV
+https://www.youtube.com/watch?v=iRq3FozeoeA
+
+
 
 
 ===========PORTUGUESE==============================================
 
 EURONEWS
 https://www.youtube.com/watch?v=VOw7bts_rGQ
+
+RN
+https://www.youtube.com/watch?v=ZZfVgVnnUpo
 
 ==========ENGLISH==============================================
 ABC NEWS
